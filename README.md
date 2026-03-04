@@ -1,1 +1,1 @@
-# Cybersecurity-Quiz
+This a is a 5-question Cybersecurity quiz I made using Visual Studio Code. I enjoyed building his project as it covers a variety of Python concepts and i'm eager to learn and build more projects on VS code in the furutre.
